@@ -6,7 +6,7 @@ belay partners.
 
 
 
-# Screenshots:
+## Screenshots:
 
 <img src="/images/screenshot_1.png" width="300" >
 
