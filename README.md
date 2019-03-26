@@ -5,16 +5,16 @@ Belayer was built to make it easy for rock climbers to find
 belay partners.
 
 Screenshots:
-![Main Screen](/images/screenshot_1.png)
+<img src="/images/screenshot_1" width="300" >
 Make partner requests by specifying the type of climbing you'll be doing.
 
-![Current Gym Requests](/images/screenshot_2.png)
+<img src="/images/screenshot_2" width="300" >
 Or wait for others' partner requests at your nearby gym.
 
-![Drawer Navigation](/images/screenshot_3.png)
+<img src="/images/screenshot_3" width="300" >
 
-![Your Profile](/images/screenshot_4.png)
+<img src="/images/screenshot_4" width="300" >
 Let others check if your climbing level is a good fit for them.
 
-![Partner Match](/images/screenshot_5.png)
+<img src="/images/screenshot_5" width="300" >
 Now that you've matched with your belay partner, go climb!
