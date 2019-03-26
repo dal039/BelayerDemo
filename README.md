@@ -6,20 +6,20 @@ belay partners.
 
 Screenshots:
 ![Main Screen]
-(https://github.com/dal039/BelayerDemo/tree/master/images/screenshot_1.png)
+(https://github.com/dal039/BelayerDemo/blob/master/images/screenshot_1.png)
 Make partner requests by specifying the type of climbing you'll be doing.
 
 ![Current Gym Requests]
-(https://github.com/dal039/BelayerDemo/tree/master/images/screenshot_2.png)
+(https://github.com/dal039/BelayerDemo/blob/master/images/screenshot_2.png)
 Or wait for others' partner requests at your nearby gym.
 
 ![Drawer Navigation]
-(https://github.com/dal039/BelayerDemo/tree/master/images/screenshot_3.png)
+(https://github.com/dal039/BelayerDemo/blob/master/images/screenshot_3.png)
 
 ![Your Profile]
-(https://github.com/dal039/BelayerDemo/tree/master/images/screenshot_4.png)
+(https://github.com/dal039/BelayerDemo/master/images/screenshot_4.png)
 Let others check if your climbing level is a good fit for them.
 
 ![Partner Match]
-(https://github.com/dal039/BelayerDemo/tree/master/images/screenshot_5.png)
+(https://github.com/dal039/BelayerDemo/blob/master/images/screenshot_5.png)
 Now that you've matched with your belay partner, go climb!
