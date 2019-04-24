@@ -8,6 +8,9 @@ Built with React Native
 
 ## Screenshots:
 
+Belayer will automatically find the nearest gym to you.
+
+
 <img src="/images/screenshot_1.png" width="300" >
 
 Make partner requests by specifying the type of climbing you'll be doing.
