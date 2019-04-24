@@ -4,7 +4,7 @@ Showcasing our React-Native app Belayer
 Belayer was built to make it easy for rock climbers to find
 belay partners.
 
-
+Built with React Native
 
 ## Screenshots:
 
